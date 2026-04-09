@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://twitter.com/_muyizzle" target="blank"><img src="https://img.shields.io/twitter/follow/_muyizzle?logo=twitter&style=for-the-badge" alt="_muyizzle" /></a> </p>
 
-- 🔭 I’m currently working on **C projects**
+- 🔭 I’m currently working on **Copilot projects**
 
-- 🌱 I’m currently bolstering **my knowledge of Bootstrap, Javascript**
+- 🌱 I’m currently bolstering **my knowledge of Bootstrap, Javascript, Agentic AI**
 
-- 👯 I’m looking to collaborate on **exciting software engineering projects**
+- 👯 I’m looking to collaborate on **exciting software engineering projects and building agents**
 
 - 🤝 I’m looking for help with **gigs and job opportunities**
 
