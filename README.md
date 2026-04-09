@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/_muyizzle" target="blank"><img src="https://img.shields.io/twitter/follow/_muyizzle?logo=twitter&style=for-the-badge" alt="_muyizzle" /></a> </p>
 
-- 🔭 I’m currently working on **Copilot projects**
+- 🔭 I’m currently working on **Copilot Agent projects**
 
 - 🌱 I’m currently bolstering **my knowledge of Bootstrap, Javascript, Agentic AI**
 
